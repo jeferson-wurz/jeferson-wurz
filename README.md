@@ -1,6 +1,6 @@
 # 👨‍💻 Senior Site Reliability Engineer (SRE) 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jeferson-andr%C3%A9-w%C3%BCrz-2a766248/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/wurz/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/jeferson-wurz/)
 
 ## Sobre Mim
