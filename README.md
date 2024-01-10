@@ -31,5 +31,5 @@ I am dedicated to providing innovative and efficient platform solutions tailored
 
 - 🌐 Minha especialidade inclui a concepção e otimização de arquiteturas em Cloud utilizando Kubernetes.
 - 💻 Minha filosofia diária: Automatize Tudo!
-- 🛠️ Sou um aficcionado por ferramentas.
+- 🛠️ Sou um aficcionado por ferramentas que aumentem a produtividade.
 - 🌟 A melhoria contínua está no meu DNA.
